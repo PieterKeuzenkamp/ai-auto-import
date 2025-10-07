@@ -1,0 +1,35 @@
+msgid "AI Auto Import"
+msgstr "AI Auto Import"
+
+msgid "Automatische invoer van auto's via AI en API's."
+msgstr "Automatische invoer van auto's via AI en API's."
+
+msgid "Kenteken kon niet herkend worden."
+msgstr "Kenteken kon niet herkend worden."
+
+msgid "Geen gegevens gevonden voor kenteken: "
+msgstr "Geen gegevens gevonden voor kenteken: "
+
+msgid "Upload Kentekenfoto"
+msgstr "Upload Kentekenfoto"
+
+msgid "Verwerk Foto"
+msgstr "Verwerk Foto"
+
+msgid "Resultaten"
+msgstr "Resultaten"
+
+msgid "Recente Imports"
+msgstr "Recente Imports"
+
+msgid "Geen recente imports gevonden."
+msgstr "Geen recente imports gevonden."
+
+msgid "Gevonden gegevens:"
+msgstr "Gevonden gegevens:"
+
+msgid "Bewerk Post"
+msgstr "Bewerk Post"
+
+msgid "Opnieuw Proberen"
+msgstr "Opnieuw Proberen"

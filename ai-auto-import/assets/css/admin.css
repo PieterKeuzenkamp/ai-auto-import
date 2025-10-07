@@ -1,0 +1,80 @@
+.ai-auto-import-container {
+    max-width: 1200px;
+    margin: 20px 0;
+}
+
+.ai-auto-import-upload {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.upload-area {
+    border: 2px dashed #b4b9be;
+    border-radius: 4px;
+    padding: 40px;
+    text-align: center;
+    margin: 20px 0;
+    transition: all 0.3s ease;
+}
+
+.upload-area.dragover {
+    border-color: #0073aa;
+    background: rgba(0,115,170,0.05);
+}
+
+.upload-area input[type="file"] {
+    display: none;
+}
+
+.upload-area label {
+    cursor: pointer;
+    display: block;
+}
+
+.upload-area .dashicons {
+    font-size: 48px;
+    width: 48px;
+    height: 48px;
+    display: block;
+    margin: 0 auto 10px;
+    color: #82878c;
+}
+
+#preview-area {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#photo-preview {
+    max-width: 300px;
+    max-height: 300px;
+    margin-bottom: 10px;
+}
+
+.results-container {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.loading {
+    text-align: center;
+    padding: 40px;
+}
+
+.loading .spinner {
+    float: none;
+    margin: 0 10px 0 0;
+}
+
+.ai-auto-import-history {
+    margin-top: 40px;
+}
+
+.retry-import {
+    margin-right: 10px !important;
+}
